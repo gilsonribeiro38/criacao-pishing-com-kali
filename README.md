@@ -10,11 +10,6 @@ O **Setoolkit** é uma ferramenta versátil usada para Coleta de Informações, 
 - Ataques a redes sem fio
 - Criação de QR Codes maliciosos
 - Ataques baseados em PowerShell  
-- **E muito mais!**
-
-O código-fonte do projeto está disponível no [GitHub](#).
-
----
 
 ## Website Cloner
 
@@ -22,8 +17,8 @@ O módulo **Website Cloner** permite capturar informações inseridas em formul�
 **Nota:** Insira o número da opção no programa seguido de `Enter` para navegar. Use "99" para voltar ou cancelar.
 
 No teste abaixo, foi usado:  
-- E-mail fictício: `ubsocial@gmail.com`  
-- Senha fictícia: `123`
+- E-mail fictício: `teste123@gmail.com`  
+- Senha fictícia: `123teste`
 
 ### Passo a Passo:
 
