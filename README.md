@@ -27,7 +27,7 @@ No teste abaixo, foi usado:
 3. Em seguida, selecione **Credential Harvester Attack Method**.
 4. Opte pela opção **Site Cloner**.
 5. Caso esteja em uma rede WAN, forneça o **IP do servidor externo**.
-6. Insira a URL do site que deseja clonar (ex.: `https://pt-br.facebook.com`).
+6. Insira a URL do site que deseja clonar (ex.: `https://github.com/login`).
 7. Localmente, acesse pelo navegador o **IP do dispositivo na porta 80** para visualizar o site clonado:  
    Exemplo: `http://localhost:80`.
 
