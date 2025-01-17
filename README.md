@@ -21,12 +21,11 @@ No teste abaixo, foi usado:
 - Senha fictícia: `123teste`
 
 ### Passo a Passo:
-
-1. No menu principal, selecione a opção **Social-Engineering Attacks**.
-2. Escolha a opção **Website Attack Vectors**.
-3. Em seguida, selecione **Credential Harvester Attack Method**.
-4. Opte pela opção **Site Cloner**.
-5. Caso esteja em uma rede WAN, forneça o **IP do servidor externo**.
+1. Como root no terminal digite **setoolkit**.
+2. Opção (1) **Social-Engineering Attacks**.
+3. Opção (2) **Website Attack Vectors**.
+4. Opção (3) **Credential Harvester Attack Method**.
+5. Opção (2) **Site Cloner**.
 6. Insira a URL do site que deseja clonar (ex.: `https://github.com/login`).
 7. Localmente, acesse pelo navegador o **IP do dispositivo na porta 80** para visualizar o site clonado:  
    Exemplo: `http://localhost:80`.
